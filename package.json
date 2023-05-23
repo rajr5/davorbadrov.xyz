@@ -11,7 +11,6 @@
   },
   "browserslist": "defaults, not ie <= 11",
   "dependencies": {
-    "@headlessui/react": "^1.7.13",
     "@mapbox/rehype-prism": "^0.8.0e",
     "@mdx-js/loader": "^2.1.5",
     "@mdx-js/react": "^2.1.5",
@@ -22,14 +21,10 @@
     "feed": "^4.2.2",
     "focus-visible": "^5.2.0",
     "next": "^13.4.2",
-    "next-plugin-preact": "^3.0.7",
     "next-router-mock": "^0.9.3",
     "postcss-focus-visible": "^6.0.4",
-    "preact": "^10.13.2",
-    "preact-render-to-string": "^6.0.3",
     "react": "^18.2.0",
     "react-dom": "^18.2.0",
-    "react-ssr-prepass": "npm:preact-ssr-prepass@^1.2.0",
     "remark-gfm": "^3.0.1",
     "tailwindcss": "^3.3.0"
   },

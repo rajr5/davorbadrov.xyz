@@ -30,11 +30,10 @@ Finally, open [http://localhost:3000](http://localhost:3000) in your browser to 
 You can start editing this template by modifying the files in the `/src` folder. The site will auto-update as you edit these files.
 
 
-## Learn more
+## Used technologies
 
-To learn more about the technologies used in this site template, see the following resources:
+To learn more about the technologies used in this site, see the following resources:
 
 - [Tailwind CSS](https://tailwindcss.com/docs) - the official Tailwind CSS documentation
 - [Next.js](https://nextjs.org/docs) - the official Next.js documentation
-- [Headless UI](https://headlessui.dev) - the official Headless UI documentation
 - [MDX](https://mdxjs.com) - the MDX documentation

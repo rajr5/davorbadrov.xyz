@@ -191,6 +191,17 @@ export default function Projects() {
               </li>
             ))}
           </ul>
+
+          <h3 className="mb-4 mt-6 text-2xl font-bold sm:text-2xl">
+            Communication protocols
+          </h3>
+          <ul>
+            {protocols.map((i) => (
+              <li key={i} className="text-lg">
+                {i}
+              </li>
+            ))}
+          </ul>
         </div>
       </SimpleLayout>
     </>
@@ -216,6 +227,14 @@ const frameworks = [
   'Next.js',
   'Angular 1.x',
   'Tailwind CSS',
+]
+
+const protocols = [
+  "HTTP/S",
+  "REST API",
+  "GraphQL",
+  "Websockets",
+  "SOAP"
 ]
 
 const environments = [

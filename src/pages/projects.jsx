@@ -83,7 +83,6 @@ export default function Projects() {
                   src={project.logo}
                   alt=""
                   className="h-8 w-8"
-                  unoptimized
                 />
               </div>
               <h2 className="mt-6 text-base font-semibold text-zinc-800 dark:text-zinc-100">

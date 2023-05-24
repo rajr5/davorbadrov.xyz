@@ -115,7 +115,6 @@ export default function Projects() {
                   src={tech.logo.image}
                   alt=""
                   className={clsx(tech.logo.className, 'object-cover')}
-                  unoptimized
                 />
               </div>
               <h2 className="mt-6 text-base font-semibold text-zinc-800 dark:text-zinc-100">

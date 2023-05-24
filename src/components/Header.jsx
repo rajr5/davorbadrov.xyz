@@ -106,7 +106,7 @@ function Navigation(props) {
       >
         <option value="/">Home</option>
         <option value="/about">About</option>
-        <option href="/tech-stack">Tech stack</option>
+        <option value="/tech-stack">Tech stack</option>
         {/* <option value="/projects">Projects</option> */}
         <option value="/blog">Blog</option>
       </select>

@@ -250,21 +250,26 @@ export default function Home({ articles }) {
           </p>
           <div className="mt-6 flex gap-6">
             <SocialLink
+              aria-label="Davor's Github profile"
               href="https://github.com/davorbadrov"
               icon={GitHubIcon}
               className="mt-4"
+              aria
             />
             <SocialLink
+              aria-label="Davor's Linked profile"
               href="https://www.linkedin.com/in/davor-badrov-670b0312b"
               icon={LinkedInIcon}
               className="mt-4"
             />
             <SocialLink
+              aria-label="Davor's Toptal profile"
               href="https://www.toptal.com/resume/davor-badrov"
               icon={ToptalIcon}
               className="mt-4"
             />
             <SocialLink
+              aria-label="Mail Davor"
               href="mailto:davor@badrov.xyz"
               icon={MailIcon}
               className="mt-4"
